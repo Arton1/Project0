@@ -41,8 +41,13 @@ void func5(){
     cout << endl;
 }
 
+void sumowanie(){
+    for(int i=0; i<5; i++);
+    return;
+}
+
 int main()
 {
-    func1();
+    sumowanie();
     return 0;
 }
